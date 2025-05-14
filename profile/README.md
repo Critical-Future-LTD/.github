@@ -1,6 +1,9 @@
 # Critical Future Ltd – Shaping the Future Through AI Innovation
 
 **Website**: [criticalfutureglobal.com](https://criticalfutureglobal.com)
+
+
+
 **Tagline**: *Leading the charge in AI-driven solutions, strategic consulting, and sustainable business practices.*
 
 ---
